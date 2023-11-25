@@ -2,13 +2,6 @@
 ./airfoil_self_noise/*
 ./archive/*
 
-
-# ignore data files
-./Breast_cancer_data.csv
-./Code_Comment_Seed_Data.csv
-./HousingData.csv
-
-
 # virtual environment
 ./venv/*
 
